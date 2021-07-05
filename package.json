@@ -1,5 +1,5 @@
 {
-  "name": "rxjs-pro-tips",
+  "name": "rxjs-tips",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "build": "webpack -w"
   },
   "keywords": [],
-  "author": "Jeff Delaney",
+  "author": "Jude Kuti",
   "license": "ISC",
   "dependencies": {
     "rxjs": "^6.4.0"
